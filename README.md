@@ -3,3 +3,4 @@
 * 🌱 As a tech enthusiast. I'm passionate about technology, innovation and big challenging tasks on my to do list.
 * 📫 How to reach me xiang.su.work@gmail.com or suxiangsux@163.com
 * 🖥 My CSDN Blog https://blog.csdn.net/Walk__Alone
+* Internship Company: Meituan, Ctrip, ByteDance
